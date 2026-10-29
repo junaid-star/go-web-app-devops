@@ -8,7 +8,7 @@ image:
   repository: docker462/go-web-app
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: "40932542345"
+  tag: "40949715091"
 
 ingress:
   enabled: false
